@@ -1,1 +1,13 @@
-# recursion
+indexing 
+1.fibonacci.java
+2.taildirectrecursion.java
+3.nontaildirectrecursion.java
+4.factorial.java
+5.
+6.sum_of_n)natural_no.java
+7.power.java
+8.reverse_of_a_no.java
+9.sum_of_digits.java
+10.display_singly_linklist.java
+11.display_reverse_linklist.java
+12.display_reverse_string.java
