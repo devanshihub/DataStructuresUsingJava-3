@@ -3,7 +3,7 @@ indexing
 2.taildirectrecursion.java
 3.nontaildirectrecursion.java
 4.factorial.java
-5.
+5.binary_no.java
 6.sum_of_n)natural_no.java
 7.power.java
 8.reverse_of_a_no.java
